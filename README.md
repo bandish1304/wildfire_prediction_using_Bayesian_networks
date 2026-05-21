@@ -143,12 +143,3 @@ The system then uses the Bayesian Network to estimate wildfire risk and displays
 - Add maps and regional wildfire visualization
 - Support batch predictions for multiple locations
 
----
-
-## Author
-Bandish
-
----
-
-## License
-You can add a license here, such as MIT, if you want others to reuse the project.
